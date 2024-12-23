@@ -1,2 +1,2 @@
-# bookstor
-Modulo
+# bookstore
+BookStore APP
